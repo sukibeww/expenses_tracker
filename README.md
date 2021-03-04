@@ -10,3 +10,18 @@ Simple Expense tracking application made with flutter
 ## Purpose of the project 
 
 To experiment and familiarize myself with numerous flutter widgets and create an rather complex UI components with flutter. 
+
+## Learning points 
+
+* Stateful & Stateless widgets 
+* Styling components 
+* Conditional rendering 
+* Assets management 
+* Builders concept 
+* Flutter dev tools 
+* Theme management 
+* Experimented on heaps of flutter widgets 
+
+## Project Conclusions
+
+Coming from both React and React native background, it was a pretty smooth learning process for me to adopt flutter and dart. There were heaps of shared concept that helps the learning process and strengthen the concept that learned before. Overall, it seems to me that flutter is a pretty good technology and I'm keen on exploring and experimenting with this technology. 
